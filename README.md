@@ -1,6 +1,6 @@
 # Resume Matcher MVP
 
-This Streamlit demo ranks resumes against a job description using spaCy and Sentence-Transformers.
+This project ranks resumes against a job description using spaCy and Sentence-Transformers.
 
 ## Setup
 
