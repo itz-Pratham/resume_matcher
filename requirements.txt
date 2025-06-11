@@ -5,8 +5,7 @@
 
 # Core numerics – stick to NumPy 1.x ABI
 numpy==1.26.4
-# scipy==1.12.0                # last SciPy built for NumPy 1.x
-scipy==1.11.4
+scipy==1.12.0                # last SciPy built for NumPy 1.x
 scikit-learn==1.4.2          # needs NumPy 1.x / SciPy <1.13
 
 # PyTorch stack (CPU-only)
